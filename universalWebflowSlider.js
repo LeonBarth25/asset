@@ -1,4 +1,4 @@
-(() => { /* Start of: BMG - Universal webflow slider code */
+(() => { /* Start of: BMG - Universal webflow slider code */ /* I changed something */
 
 // Global strings
 const sliderSelctor = '[bmg-uwsc = "Slider"]',
